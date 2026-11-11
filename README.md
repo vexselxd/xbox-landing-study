@@ -1,6 +1,6 @@
 # Xbox Landing Study
 
-Estudio de diseño de la página de inicio de Xbox, hecha con HTML, CSS y JavaScript vanilla (sin frameworks). Sin afiliación con Microsoft/Xbox — fines educativos únicamente.
+Estudio de diseño de la página de inicio de Xbox, hecho con HTML, CSS y JavaScript vanilla (sin frameworks). Sin afiliación con Microsoft/Xbox — fines educativos únicamente.
 
 Todo el arte visual (fondos de héroe, teselas de juegos, formas del banner de dispositivos) está generado con CSS (gradientes/formas) por defecto — no se reproducen fotografías ni logotipos reales. Si quieres usar tus propias capturas/fotos, consulta [`assets/img/README.md`](assets/img/README.md): basta con guardar el archivo con el nombre indicado y la página lo detecta sola, sin tocar código.
 
